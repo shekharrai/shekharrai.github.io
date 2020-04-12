@@ -24,7 +24,7 @@ description: >-
   Personal and Professional Blogs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shekharrai.github.io"
-twitter_username: Shekkar_Raee
+twitter_username: ShekkarRai
 github_username:  shekharrai
 
 # Build settings
