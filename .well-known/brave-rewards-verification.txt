@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: shekharrai.github.io
+Token: 8ef41c8d52a345ef985e88f214246943123dfa2d02a4678ec99a989ac587e86b
